@@ -1,0 +1,3 @@
+rootProject.name = 'ariyanbingmailcom_ari_924'
+
+include ':app'
